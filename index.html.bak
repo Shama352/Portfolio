@@ -28,31 +28,6 @@
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
     <!-- Nav Bar Start -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-        <div class="container">
-            <a class="navbar-brand" href="#home">Portfolio</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#about">Bio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#service">Portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#experience">Experience</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#elevator-pitch">Elevator Pitch</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
 
     <!-- Nav Bar End -->
 
@@ -184,25 +159,51 @@
                 <div class="col-lg-12">
                     <div class="about-content">
                         <br />
-                        <div id="elevator-pitch" class="section-header text-center">
+                        <div class="section-header text-center">
                             <p>More About Me</p>
                             <h2>Elevator Pitch<h2>
                         </div>
-                        <div class="text-center">
-                            <!-- create styled button to open a video -->
+                        <div class="about-text">
                             <p>
-                                <a class="btn btn-color"
-                                    href="https://www.veed.io/view/960148f7-1628-4b93-8057-94bf70013b6b?panel=share"
-                                    target="_blank">Click
-                                    Here</a>
+                                Hi, I'm Ahmed Ehab, a recent graduate from the Faculty of Computer and AI at Cairo
+                                University.
+                                With a strong background in computer science and artificial intelligence, I possess
+                                expertise in data analysis, machine
+                                learning, and software development.
+                                As an ambitious and dedicated individual, I continuously seek to stay updated with the
+                                latest advancements in my field,
+                                allowing me to bring fresh insights and innovative solutions to the table.
+                                By leveraging my skills in data analysis and machine learning, I can help organizations
+                                uncover valuable insights from
+                                their data, leading to better decision-making and increased efficiency.
+                                As a software developer, I am committed to building robust and user-friendly
+                                applications, streamlining processes, and
+                                enhancing overall user experiences.
+                                My contribution will make employers' lives easier by providing data-driven solutions and
+                                efficient software applications that solve complex problems and drive business growth.
+                                I am currently seeking opportunities to apply my skills and passion for technology to
+                                make a meaningful impact on
+                                projects that drive innovation and foster positive change.
+                                So, if you're looking for a driven and skilled computer science graduate to join your
+                                team, let's connect and explore
+                                how I can add value to your organization.
+
                             </p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
+
+
+
+
+
+
+
+
 </body>
 
 </html>
